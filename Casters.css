@@ -1,0 +1,205 @@
+#Page
+{
+	position:relative;
+	margin:0px auto;
+	width:1000px;
+	height:1950px;
+	background-color:rgb(242, 242, 237);
+}
+
+.Ligne1
+{
+	position:absolute;
+	left:270px;
+	top:140px;
+	z-index:10017;
+}
+
+.Ligne2
+{
+	position:absolute;
+	left:270px;
+	top:500px;
+	z-index:10017;
+}
+
+.Ligne3
+{
+	position:absolute;
+	left:270px;
+	top:860px;
+	z-index:10017;
+}
+
+.Ligne4
+{
+	position:absolute;
+	left:270px;
+	top:1220px;
+	z-index:10017;
+}
+
+.Ligne5
+{
+	position:absolute;
+	left:270px;
+	top:1580px;
+	z-index:10017;
+}
+
+.ImageCaster1
+{
+	position:absolute;
+	left:270px;
+	top:150px;
+	z-index:10014;
+	width:250px;
+	height:340px;
+}
+
+.ImageCaster2
+{
+	position:absolute;
+	left:270px;
+	top:510px;
+	z-index:10014;
+	width:250px;
+	height:340px;
+}
+
+.ImageCaster3
+{
+	position:absolute;
+	left:270px;
+	top:870px;
+	z-index:10014;
+	width:250px;
+	height:340px;
+}
+
+.ImageCaster4
+{
+	position:absolute;
+	left:270px;
+	top:1230px;
+	z-index:10014;
+	width:250px;
+	height:340px;
+}
+
+.ImageCaster5
+{
+	position:absolute;
+	left:270px;
+	top:1590px;
+	z-index:10014;
+	width:250px;
+	height:340px;
+}
+
+.Contenu1
+{
+	position:absolute;
+	left:530px;
+	top:150px;
+	z-index:10015;
+	width:460px;
+	height:340px;
+}
+
+.Contenu2
+{
+	position:absolute;
+	left:530px;
+	top:510px;
+	z-index:10015;
+	width:460px;
+	height:340px;
+}
+
+.Contenu3
+{
+	position:absolute;
+	left:530px;
+	top:870px;
+	z-index:10015;
+	width:460px;
+	height:340px;
+}
+
+.Contenu4
+{
+	position:absolute;
+	left:530px;
+	top:1230px;
+	z-index:10015;
+	width:460px;
+	height:340px;
+}
+
+.Contenu5
+{
+	position:absolute;
+	left:530px;
+	top:1590px;
+	z-index:10015;
+	width:460px;
+	height:340px;
+}
+
+#Twitch
+{
+	font-size:25px;
+	color:rgb(102, 51, 153);
+	font-family:Pacifico;
+	text-decoration: none !important;  
+	display : inline-block;
+}
+
+#Facebook
+{
+	font-size:25px;
+	color:rgb(7, 50, 160);
+	font-family:Pacifico;
+	text-decoration: none !important; 
+	display : inline-block;
+}
+
+#Twitter
+{
+	font-size:25px;
+	color:rgb(16, 210, 252);
+	font-family:Pacifico;
+	text-decoration: none !important; 
+	display : inline-block;
+}
+
+#Youtube
+{
+	font-size:25px;
+	color:rgb(255, 0, 0);
+	font-family:Pacifico;
+	text-decoration: none !important; 
+	display : inline-block;
+		border: 0px; 
+}
+
+#PasActif
+{
+	font-size:25px;
+	color:rgb(100, 100, 100);
+	font-family:Pacifico;
+	text-decoration: none !important; 
+	display : inline-block;
+	border: 0px; 
+}
+
+li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 10px;
+}
+
+
+

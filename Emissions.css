@@ -1,0 +1,244 @@
+#Page
+{
+	position:relative;
+	margin:0px auto;
+	width:1000px;
+	height:1820px;
+	background-color:rgb(242, 242, 237);
+}
+
+.Ligne1
+{
+	position:absolute;
+	left:270px;
+	top:140px;
+	z-index:10017;
+}
+
+.Ligne2
+{
+	position:absolute;
+	left:270px;
+	top:260px;
+	z-index:10017;
+}
+
+.Ligne3
+{
+	position:absolute;
+	left:270px;
+	top:450px;
+	z-index:10017;
+}
+.Ligne4
+{
+	position:absolute;
+	left:270px;
+	top:570px;
+	z-index:10017;
+}
+
+.Ligne5
+{
+	position:absolute;
+	left:270px;
+	top:760px;
+	z-index:10017;
+}
+
+.Ligne6
+{
+	position:absolute;
+	left:270px;
+	top:880px;
+	z-index:10017;
+}
+.Ligne7
+{
+	position:absolute;
+	left:270px;
+	top:1200px;
+	z-index:10017;
+}
+
+.Ligne8
+{
+	position:absolute;
+	left:270px;
+	top:1320px;
+	z-index:10017;
+}
+
+.Ligne9
+{
+	position:absolute;
+	left:270px;
+	top:1510px;
+	z-index:10017;
+}
+
+.Ligne10
+{
+	position:absolute;
+	left:270px;
+	top:1630px;
+	z-index:10017;
+}
+
+.ImageEmission1
+{
+	position:absolute;
+	left:270px;
+	top:150px;
+	z-index:10014;
+	width:720px;
+	height:100px;
+}
+
+.ImageEmission2
+{
+	position:absolute;
+	left:270px;
+	top:460px;
+	z-index:10014;
+	width:720px;
+	height:100px;
+}
+
+.ImageEmission3
+{
+	position:absolute;
+	left:270px;
+	top:770px;
+	z-index:10014;
+	width:720px;
+	height:100px;
+}
+
+.ImageEmission4
+{
+	position:absolute;
+	left:270px;
+	top:1210px;
+	z-index:10014;
+	width:720px;
+	height:100px;
+}
+
+.ImageEmission5
+{
+	position:absolute;
+	left:270px;
+	top:1520px;
+	z-index:10014;
+	width:720px;
+	height:100px;
+}
+
+.Contenu1
+{
+	position:absolute;
+	left:270px;
+	top:280px;
+	z-index:10015;
+	width:720px;
+	height:170px;
+	overflow:hidden;
+}
+
+.Contenu2
+{
+	position:absolute;
+	left:270px;
+	top:590px;
+	z-index:10015;
+	width:720px;
+	height:170px;
+	overflow:hidden;
+}
+
+.Contenu3
+{
+	position:absolute;
+	left:270px;
+	top:900px;
+	z-index:10015;
+	width:720px;
+	height:170px;
+	text-decoration:none; 
+}
+
+.Contenu4
+{
+	position:absolute;
+	left:270px;
+	top:1340px;
+	z-index:10015;
+	width:720px;
+	height:170px;
+	overflow:hidden;
+}
+
+.Contenu5
+{
+	position:absolute;
+	left:270px;
+	top:1650px;
+	z-index:10015;
+	width:720px;
+	height:170px;
+	overflow:hidden;
+}
+
+.ListeMiniGame1
+{
+	position:absolute;
+	left:270px;
+	top:1030px;
+	z-index:10015;
+	width:240px;
+	height:170px;
+	overflow:hidden;
+}
+
+.ListeMiniGame2
+{
+	position:absolute;
+	left:510px;
+	top:1030px;
+	z-index:10015;
+	width:240px;
+	height:170px;
+	overflow:hidden;
+}
+
+.ListeMiniGame3
+{
+    position:absolute;
+	left:750px;
+	top:1030px;
+	z-index:10015;
+	width:240px;
+	height:170px;
+	overflow:hidden;
+}
+
+#ListeGame
+{
+	font-size:20px;
+	color:rgb(255, 50, 50);
+	font-family:Pacifico;
+	display : inline-block;
+	text-decoration:none; 
+}
+
+#PasActif
+{
+	font-size:20px;
+	color:rgb(107, 107, 107);
+	font-family:Pacifico;
+	display : inline-block;
+	text-decoration:none; 
+}
+
+

@@ -1,0 +1,74 @@
+.ContenuPageGlobalHG
+{
+	position:absolute;
+	z-index:10008;
+	width:340px;
+	height:290px;
+	top:130px;
+	left:270px;
+}
+
+.ContenuPageGlobalHD
+{
+	position:absolute;
+	z-index:10008;
+	width:340px;
+	height:290px;
+	top:130px;
+	left:630px;
+}
+
+.ContenuPageGlobalBG
+{
+	position:absolute;
+	z-index:10008;
+	width:700px;
+	height:290px;
+	top:415px;
+	left:270px;
+}
+
+.Paragraphe
+{
+	text-align: justify;
+	font-family:Quicksand; 
+	font-size:20px; 
+	color: rgb(0, 0, 0);"
+	margin: 0px;
+}
+
+.LigneOrangeHaut
+{
+	position:absolute;
+	left:270px;
+	top:415px;
+	z-index:10012;
+}
+
+.LigneOrangeBas
+{
+	position:absolute;
+	left:270px;
+	top:705px;
+	z-index:10012;
+}
+
+#ImageBas
+{
+	position:absolute;
+	left:280px;
+	top:734px;
+	z-index:10014;
+	overflow:hidden;
+	width:689px;
+	height:295px;
+}
+
+#Page
+{
+	position:relative;
+	margin:0px auto;
+	width:1000px;
+	height:1050px;
+	background-color:rgb(242, 242, 237);
+}
